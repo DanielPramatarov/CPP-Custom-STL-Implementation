@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/Documents/MyGitHub/CPP-Custom-STL-Implementation/Stack/Stack.h
+memory
+-
+
+/home/daniel/Documents/MyGitHub/CPP-Custom-STL-Implementation/Stack/main.cpp
+Stack.h
+/home/daniel/Documents/MyGitHub/CPP-Custom-STL-Implementation/Stack/Stack.h
+string
+-
+iostream
+-
+
